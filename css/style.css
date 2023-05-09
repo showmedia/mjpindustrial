@@ -605,7 +605,7 @@ nav .menu-mobile.active{
   border-radius: 50px;
   position: relative;
   background-image: url('/img/logo.png');
-  background-color: #197e7e;
+  background-color: var(--primary);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1238,7 +1238,7 @@ nav .menu-mobile.active{
   border-radius: 50px;
   position: relative;
   background-image: url('/img/img-contact.png');
-  background-color: #197e7e;
+  background-color: var(--primary);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1323,7 +1323,7 @@ nav .menu-mobile.active{
   top: 50%;
   transform: translateY(-50%);
   background-image: url('/img/img-contact.png');
-  background-color: #197e7e;
+  background-color: var(--primary);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
