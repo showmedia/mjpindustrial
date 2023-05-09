@@ -1,7 +1,6 @@
 
 
 $(document).ready(function() {
-alert('teste');
   $(".li-pai").click(function(){
     $(this).find('ul').slideToggle();
     $(this).addClass('active');
