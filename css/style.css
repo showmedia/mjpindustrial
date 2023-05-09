@@ -360,6 +360,8 @@ nav .elemento-animado .ven li{
     background-color: #5e0404;
     background-image: url('../img/head.jpg');
     background-size: cover; /* ajusta o tamanho da imagem */
+    background-repeat: no-repeat;
+    background-position: center;
     background-blend-mode: multiply; /* mescla a imagem com a cor de fundo */
     opacity: 0.9;
     position: relative;
