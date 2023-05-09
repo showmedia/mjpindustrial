@@ -1,0 +1,306 @@
+@media (max-width:768px) {
+    body{
+        min-width: 100%;
+    }
+    footer img{
+        width: 30vw;
+    }
+    footer .d-md-flex .flex-fill{
+        text-align: center !important;
+    }
+    footer .texto a{
+        text-align: center;
+        justify-content: center;
+    }
+
+    footer ul{
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    footer .texto {
+        margin-bottom: 20px;
+    }
+
+    footer .apresenta{
+        max-width: 100% !important;
+        padding: 5vh;
+    }
+
+    nav .logo img {
+        max-width: 15vw !important;  
+    }
+    .toggle-button {
+        display: block !important;
+    }
+    .menu{
+        display: none !important;
+    }
+    nav .btn-search {
+        display: none;
+    }
+    .menu-mobile {
+        padding: 0;
+    }
+    .menu-mobile .close{
+        position: absolute;
+        top: 10px;
+        right: 30px;
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: #524f4f;
+    }
+    .menu-mobile ul{
+        width: 100%;
+        display: block;
+        padding: 0;
+        margin-top: 50px;
+    }
+    .menu-mobile ul li{
+        width: 100%;
+        list-style: none;
+        text-align: left;
+        padding: 7px;
+        padding-left: 60px;
+        margin: 0;
+        border-top: 1px solid #f9f9f9;
+        color: #524f4f;
+        align-items: center;
+    }
+    .menu-mobile ul li:hover{
+        background-color: #f9f9f9;
+    }
+    .menu-mobile ul li span{
+        margin-left: 7px;
+
+    }
+    .menu-mobile ul li ul{
+        margin-top: 0px;
+        background-color: #bbb;
+    }
+    .menu-mobile ul li ul li:hover{
+        background-color: #b1b1b1;
+    }
+    .menu-mobile ul li ul li{
+        color: #fff;
+    }
+    .menu-mobile .titulo{
+        text-align: left;
+        color: #bbb;
+        padding-left: 30px;
+    }
+    .menu-mobile .hover:hover{
+        cursor: pointer;
+
+    }
+    .menu-mobile ul li ul{
+        margin-top: 0px;
+        background-color: #bbb;
+    }
+    .menu-mobile ul li ul li:hover{
+        background-color: #b1b1b1;
+    }
+    .menu-mobile ul li ul li{
+        color: #fff;
+    }
+    .menu-mobile .titulo{
+        text-align: left;
+        color: #bbb;
+        padding-left: 30px;
+    }
+    .menu-mobile .hover:hover{
+        cursor: pointer;
+    }
+
+    .search-top{
+        min-height: 40vh !important;
+    }
+
+    .search-top img{
+        width: 55%;
+        left: -40px !important;
+        top: 40px;
+    }
+
+    .f-right{
+        width: 100%;
+    }
+
+    .f-right h1 {
+        font-size: 1.4rem;
+        width:55%;
+        font-weight: 500;
+        float: right;
+        text-align: right;
+        margin-top: 30px;
+        margin-right: 10px;
+        font-size: 1.2rem;
+    }
+
+    .f-right form{
+        width: 90%;
+        left: 50%;
+        transform: translateX(-50%) !important;
+        bottom: 30px;
+    }
+
+    .f-right form input{
+        width: 33.3%;
+    }
+
+    .f-right input::placeholder{
+        font-size: 0.8rem;
+    }
+
+    .contact-online{
+        width: 90%;
+        position: fixed;
+        right: 10px !important;
+        bottom: 10px;
+        display: flex;
+        align-content: flex-end !important;
+        z-index: 9999;
+    }
+    .contact-online .banner{
+        width: 70vw;
+    }
+    #servicos{
+        width: 100%;
+        padding: 50px 2%;
+    }
+    #servicos .linha{
+        display: block;
+    }
+    #servicos .linha .iten{
+        width: 100%;
+    } 
+    #parcelas{
+        padding: 50px 2%;
+    }
+    #perguntas{
+        padding: 50px 2%;
+    }
+    #quemsomos p{
+        column-count: 1;
+    }
+    #parcelas p{
+        font-size: 1rem;
+    }
+    #infoempresas img{
+        display: none;
+      }
+      #infoempresas h5{
+        padding: 0 10%;
+      }
+    #parcelas h1{
+        font-size: 1.5rem;
+    }
+    #parcelas .title {
+        width: 50%;
+    }
+    #parcelas .txt {
+        width: 50%;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    #ipva .img-gile{
+        display: none;
+    }
+
+    #ipva .f-left{
+        width: 100%;
+      }
+
+    .box-message{
+        width: 100%;
+        height: 90vh;
+    }
+    .box-message .body{
+        height: 550px;
+    }
+    #empresas{
+        padding: 50px 2%;
+    }
+    #empresas .lista-empresas{
+        margin-top: 150px;
+        margin-bottom: -50px;
+    }
+    #empresas a{
+        width: 50%;
+      }
+      .frota01 {
+        width: 120px;
+        height: 100px;
+        left: 30px;
+        top: 30px;
+        animation: frotaponta 1s ease-in-out, fade-in 1s ease-in-out;
+        animation-delay: 0.5s;
+        opacity: 0;
+        animation-fill-mode: forwards;
+      }
+      .frota05 {
+        width: 120px;
+        height: 100px;
+        right: 30px;
+        top: 30px;
+        animation: frotaponta 1s ease-in-out, fade-in 1s ease-in-out;
+        animation-delay: 0.5s;
+        opacity: 0;
+        animation-fill-mode: forwards;
+      }
+      .frota02{
+        left: 0px;
+      }
+      .frota04 {
+        right: 0px;
+      }
+      .frota03 {
+        z-index: 999;
+      }
+      .frota05{
+        display: none;
+      }
+      .frota01 {
+        z-index: 999;
+        top: 100px;
+        left: 10px;
+      }
+      #infoempresas h5{
+        padding: 0 0;
+      }
+      .mobile-block{
+        display: block !important;
+      }
+
+      #info2 h5{
+        padding: 0;
+      }
+
+      #info2 img{
+        width: 100%;
+        margin: 0 auto;
+      }
+
+      #info3 .texto{
+        padding: 0;
+        margin-top: 20px;
+      }
+      #info4 .texto{
+        padding: 0;
+      }
+      #info4 img{
+        width: 70%;
+        right: -120px;
+      }
+      #servicopage p{
+        padding: 0px;
+      }
+}
