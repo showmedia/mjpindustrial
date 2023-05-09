@@ -3,7 +3,7 @@
 			<div class="flex-fill">
                 <img src="/img/logo.png" alt="logotipo todo branco" class="img">
                 <div class="text-center d-flex social-links p-2" style="width: 0 auto;">
-                    <a href="https://wa.me/5511959658312" target="_blank" rel="whats"><ion-icon name="logo-whatsapp"></ion-icon></a>
+                    <a href="https://wa.me/5511941202161" target="_blank" rel="whats"><ion-icon name="logo-whatsapp"></ion-icon></a>
                     <a href="https://www.instagram.com/mjp_industrial/" target="_blank" rel="instagram"><ion-icon name="logo-instagram"></ion-icon></a>
                 </div>
             </div>

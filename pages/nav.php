@@ -36,7 +36,7 @@
     </div>
     <div class="text-start col-6" style="border-left: 1px solid #ddd;">
         <a href="https://www.instagram.com/mjp_industrial/" target="_blanck"><li class="p-2"><ion-icon name="logo-instagram"></ion-icon> <span>Instagram</span> </li></a>
-        <a href="https://wa.me/5511959658312" target="_blanck"><li class="p-2"><ion-icon name="logo-whatsapp"></ion-icon> <span>Whatsapp</span></li></a>
+        <a href="https://wa.me/5511941202161" target="_blanck"><li class="p-2"><ion-icon name="logo-whatsapp"></ion-icon> <span>Whatsapp</span></li></a>
     <div>
 </div>
 </ul>
@@ -69,7 +69,7 @@
 <li class="nav-link titulo"><a >Comunidade</a>
 <a href="/#perguntas" onclick="ocutar()"><li><span>Perguntas</span></li></a>
 <a href="https://www.instagram.com/gileadedespachante/" target="_blanck"><li ><ion-icon name="logo-instagram"></ion-icon> <span>Instagram</span> </li></a>
-<a href="https://wa.me/5511959658312" target="_blanck"><li ><ion-icon name="logo-whatsapp"></ion-icon> <span>Whatsapp</span></li></a>
+<a href="https://wa.me/5511941202161" target="_blanck"><li ><ion-icon name="logo-whatsapp"></ion-icon> <span>Whatsapp</span></li></a>
 
 </li>
 </ul>

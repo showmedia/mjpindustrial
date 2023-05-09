@@ -1,6 +1,6 @@
 :root {
   --primary: #bd231b; /* Define a variável de cor "primary" como laranja */
-  --seconday: #8d8f8f;
+  --secondary: #8d8f8f;
   --white: #fff;
 }
 
@@ -39,7 +39,7 @@ header {
 
 footer{
   width: 100%;
-  background-color: var(--seconday);
+  background-color: var(--secondary);
 }
 
 footer img{
@@ -234,7 +234,7 @@ nav .toggle-button span {
 }
 
 nav .toggle-button:hover span{
-  background-color: #dfb453;
+  background-color: var(--secondary);
 }
 
 nav .btn-search{
@@ -248,7 +248,7 @@ nav .btn-search{
 }
 
 nav .btn-search:hover{
-  background-color: #dfb453;
+  background-color: var(--secondary);
   cursor: pointer;
 }
 
@@ -686,7 +686,7 @@ nav .menu-mobile.active{
 #parcelas {
   width: 100%;
   min-height: 100px;
-  background-color: #dfb453;
+  background-color: var(--secondary);
   padding: 50px 15%;
   display: flex;
   align-items: center;
@@ -1078,7 +1078,7 @@ nav .menu-mobile.active{
   text-align: center;
   margin-bottom: 50px;
   margin-top: 20px;
-  color: #dfb453;
+  color: var(--secondary);
   font-weight: 900;
 }
 #infoempresas h5{
