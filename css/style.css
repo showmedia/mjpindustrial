@@ -1,3 +1,9 @@
+:root {
+  --primary: #bd231b; /* Define a variável de cor "primary" como laranja */
+  --seconday: #8d8f8f;
+  --white: #fff;
+}
+
 * {
   font-family: 'roboto';
 }
@@ -33,6 +39,7 @@ header {
 
 footer{
   width: 100%;
+  background-color: var(--seconday);
 }
 
 footer img{
@@ -46,7 +53,7 @@ footer .social-links{
 
 footer .social-links a{
 
-    color: #bd231b;
+    color: var(--primary);
     font-size: 1.2rem;
     margin: 0.2rem;
     display: flex;
@@ -60,7 +67,8 @@ footer .social-links a{
 }
 
 .social-links a:hover{
-  background-color: #eee;
+  background-color: var(--primary);
+  color: var(--white);
 }
 
 footer ul {
@@ -80,7 +88,7 @@ footer ul li a{
 
 
 footer ul li a:hover{
-  color: #dfb453;
+  color: var(--primary);
 }
 
 footer h5{
@@ -130,7 +138,7 @@ nav .menu a {
   text-decoration: none;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #bd231b !important;
+  color: var(--primary) !important;
 }
 
 nav .menu a:hover{
@@ -194,7 +202,7 @@ nav .menu .nav-link2 a::before{
   top: 40%; /* ajuste a posição vertical da seta */
   transform: translate(-100%, 0) rotate(-45deg); /* centralize a seta verticalmente */
   border-top: 10px solid transparent; /* defina a largura da seta */
-  border-right: 10px solid #bd231b; /* defina a cor da seta */
+  border-right: 10px solid var(--primary); /* defina a cor da seta */
 }
 nav .menu .nav-link2:hover > a::before{
   opacity: 1;
@@ -220,7 +228,7 @@ nav .toggle-button span {
   display: block;
   width: 100%;
   height: 3px;
-  background-color: #bd231b;
+  background-color: var(--primary);
   border-radius: 3px;
   margin: 2px;
 }
@@ -234,7 +242,7 @@ nav .btn-search{
   align-items: center;
   border: none;
   border-radius: 10px;
-  background-color: #bd231b;
+  background-color: var(--primary);
   color: #fff;
   padding: 0.5rem;
 }
@@ -263,7 +271,7 @@ nav .btn-search:hover{
   top: 30%; /* ajuste a posição vertical da seta */
   transform: translate(-50%, 0) rotate(-45deg); /* centralize a seta verticalmente */
   border-top: 10px solid transparent; /* defina a largura da seta */
-  border-right: 10px solid #bd231b; /* defina a cor da seta */
+  border-right: 10px solid var(--primary); /* defina a cor da seta */
 }
 
 .elemento-animado li:hover > span::before{
@@ -281,7 +289,7 @@ nav .elemento-animado a{
 }
 
 nav .elemento-animado a:hover{
-  color: #bd231b !important;
+  color: var(--primary) !important;
   transition: 0.5s;
 }
 
@@ -302,7 +310,7 @@ nav .elemento-animado button:hover{
 }
 
 nav .elemento-animado button.active{
-  color: #bd231b;
+  color: var(--primary);
   background-color: #e0cb9b;
   padding: 10px;
   opacity: 0.8;
@@ -349,7 +357,7 @@ nav .elemento-animado .ven li{
   .search-top {
     width: 100%;
     min-height: 70vh;
-    background-image: linear-gradient(315deg, #bd231b 0%, #197e7e 74%);
+    background-image: linear-gradient(315deg, var(--primary) 0%, #197e7e 74%);
     position: relative;
     overflow: hidden;
   }
@@ -424,7 +432,7 @@ nav .elemento-animado .ven li{
 
   .f-right button:hover{
     background-color: rgba(255, 255, 255, 0.3);
-    color: #bd231b;
+    color: var(--primary);
     transition: 0.3s;
   }
 
@@ -565,7 +573,7 @@ nav .menu-mobile.active{
 }
 
 .contact-online .banner span{
-  color: #bd231b;
+  color: var(--primary);
   font-weight: 600;
   font-size: 12px;
   position: absolute;
@@ -659,13 +667,13 @@ nav .menu-mobile.active{
   background-color: #faebe9;
   padding: 10px;
   border-radius: 50px;
-  color: #bd231b;
+  color: var(--primary);
   margin-right: 20px;
 }
 
 #servicos .linha .iten h2{
   font-size: 1.2rem;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: bold;
 }
 
@@ -694,7 +702,7 @@ nav .menu-mobile.active{
 }
 
 #parcelas h1 {
-  color: #bd231b;
+  color: var(--primary);
   font-weight: 900;
   font-size: 2rem;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -713,7 +721,7 @@ nav .menu-mobile.active{
 
 #parcelas p strong{
   font-size: 4rem;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: 900;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -739,7 +747,7 @@ nav .menu-mobile.active{
 #ipva h2{
   font-size: 3rem;
   font-weight: 900;
-  color: #bd231b;
+  color: var(--primary);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 
   text-transform: uppercase;
@@ -752,7 +760,7 @@ nav .menu-mobile.active{
   margin-bottom: 20px;
 }
 #ipva span{
-  background-color: #bd231b;
+  background-color: var(--primary);
   color: #fff;
   text-align: center;
   padding: 5px 20px;
@@ -778,22 +786,22 @@ nav .menu-mobile.active{
 
 #ipva a{
   text-decoration: none;
-  color: #bd231b;
+  color: var(--primary);
   background-color: none;
   padding: 15px;
   border-radius: 20px;
-  border: 1px solid #bd231b;
+  border: 1px solid var(--primary);
 }
 
 #ipva a:hover{
-  background-color: #bd231b;
+  background-color: var(--primary);
   color: #fff;
   transition: 0.3s ease-in-out;
 }
 
 #quemsomos{
   width: 100%;
-  background-color: #bd231b;
+  background-color: var(--primary);
   padding: 50px 10%;
   color: #fff;
 }
@@ -848,13 +856,13 @@ nav .menu-mobile.active{
 }
 
 #perguntas .active{
-  color: #bd231b;
+  color: var(--primary);
 }
 
 #perguntas .active::before{
-  color: #bd231b;
+  color: var(--primary);
   border-width: 6px 6px 0 6px;
-  border-color: #bd231b transparent transparent transparent;
+  border-color: var(--primary) transparent transparent transparent;
   transition: 0.3s;
 }
 
@@ -877,7 +885,7 @@ nav .menu-mobile.active{
 
 #perguntas h1{
   font-size: 2rem;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: bold;
   margin-bottom: 50px;
 }
@@ -887,15 +895,15 @@ nav .menu-mobile.active{
 }
 
 #perguntas a{
-  color: #bd231b;
+  color: var(--primary);
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid #bd231b !important;
+  border: 1px solid var(--primary) !important;
   font-weight: 600;
 }
 
 #perguntas a:hover{
-  background-color: #bd231b;
+  background-color: var(--primary);
   color: #fff;
   transition: 0.7s;
 }
@@ -911,7 +919,7 @@ nav .menu-mobile.active{
 
 #empresas a{
   text-decoration: none;
-  background-color: #bd231b;
+  background-color: var(--primary);
   text-align: center;
   margin: 50px auto;
   margin-bottom: 10px;
@@ -925,7 +933,7 @@ nav .menu-mobile.active{
   text-align: center;
   font-size: 1.9rem;
   font-weight: bold;
-  color: #bd231b;
+  color: var(--primary);
   margin: 50px;
   margin-top: 10px;
 }
@@ -1053,7 +1061,7 @@ nav .menu-mobile.active{
 }
 
 #infoempresas{
-  background-color: #bd231b;
+  background-color: var(--primary);
   color: #fff;
   min-height: 300px;
   padding: 50px 10%;
@@ -1085,7 +1093,7 @@ nav .menu-mobile.active{
 }
 #info2 h5{
   text-align: center;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: bold;
   padding: 50px;
 }
@@ -1129,7 +1137,7 @@ nav .menu-mobile.active{
 }
 #servicopage h1{
   font-size: 2rem;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: bold;
 }
 #servicopage p{
@@ -1166,7 +1174,7 @@ nav .menu-mobile.active{
 .msg span{
   font-size: 1.2rem;
   position: fixed;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: bold;
   right: 15px;
   top: 10px;
@@ -1194,7 +1202,7 @@ nav .menu-mobile.active{
 }
 
 .box-message .span{
-  color: #bd231b;
+  color: var(--primary);
   font-weight: 600;
   position: absolute;
   right: 15px;
@@ -1214,7 +1222,7 @@ nav .menu-mobile.active{
 
 .box-message .head span{
   margin-left: 10px;
-  color: #bd231b;
+  color: var(--primary);
   font-weight: 500;
 }
 
@@ -1256,7 +1264,7 @@ nav .menu-mobile.active{
   transform: translate(-50%,-50%);
   padding: 5px 15px;
   border-radius: 7px;
-  background-color: #bd231b;
+  background-color: var(--primary);
   color: #fff;
   text-align: center;
   border: none;

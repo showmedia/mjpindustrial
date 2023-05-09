@@ -1,4 +1,4 @@
-<footer class="text-center text-white" style='background-color: #004e87; font-weight: 500; padding-top: 30px;'>
+<footer class="text-center text-white" style='font-weight: 500; padding-top: 30px;'>
 		<div class="d-md-flex p-sm-5 col-12">
 			<div class="flex-fill">
                 <img src="/img/logo.png" alt="logotipo todo branco" class="img">
