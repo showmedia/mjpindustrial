@@ -357,7 +357,8 @@ nav .elemento-animado .ven li{
   .search-top {
     width: 100%;
     min-height: 70vh;
-    background-image: linear-gradient(315deg, var(--primary) 0%, #197e7e 74%);
+    background-color: #8d0303;
+    background-image: linear-gradient(147deg, #8d0303 0%, var(--primary) 74%);
     position: relative;
     overflow: hidden;
   }
