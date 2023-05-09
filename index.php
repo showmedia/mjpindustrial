@@ -29,7 +29,21 @@
       
             
 
-            
+            <section id="quemsomos">
+        <h1>
+            Quem Somos
+        </h1>
+
+        <p>
+        Com mais de duas décadas de experiência no mercado, a MJP Industrial é uma empresa líder no setor de suportes de TV, estruturas de painéis de LED e totens personalizados. Nossa equipe de profissionais altamente qualificados e experientes está pronta para ajudá-lo em todas as suas necessidades. <br><br>
+
+        Nós nos orgulhamos de oferecer um serviço dedicado, responsável e profissional, sempre prontos para superar as expectativas dos nossos clientes. Na MJP Industrial, temos um compromisso com a excelência em todas as áreas, desde o design e fabricação até a instalação e manutenção de nossos produtos. <br><br>
+
+        Nossos projetos personalizados são criados para atender às necessidades específicas de nossos clientes, garantindo que cada projeto seja único e atenda aos mais altos padrões de qualidade. Seja para um suporte de TV personalizado ou uma estrutura de painel de LED de grande escala, nossa equipe está preparada para oferecer um serviço ágil e eficiente. <br><br>
+        
+        Na MJP Industrial, valorizamos a confiança de nossos clientes e trabalhamos incansavelmente para mantê-la. Seja qual for sua necessidade, conte conosco para fornecer as melhores soluções e serviços da indústria. Estamos prontos para trabalhar com você e ajudá-lo a alcançar seus objetivos!
+        </p>
+    </section>
              
 
                 <?php 
