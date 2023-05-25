@@ -181,7 +181,7 @@ function enviarwhats(){
     txtwhats = txtwhats.replace(/ /g, "%20");
 
     // Cria o link com o número do telefone e a mensagem
-    var link = "https://wa.me/5511964477746?text=" + txtwhats;
+    var link = "https://wa.me/5511941202161?text=" + txtwhats;
 
     // Abre uma nova guia no navegador com o link
     window.open(link);
