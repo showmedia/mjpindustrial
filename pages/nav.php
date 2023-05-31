@@ -11,7 +11,7 @@
 <ul class="elemento-animado" style="width: 40vw;">
 <div class="col-12 row p-2">
     <div class="text-start col-6">
-        <a href="/produtos/index.php?produto=teste"><li class="p-2"><span>Painés de LED</span></li></a>
+        <a href="/produtos.php?produto=teste"><li class="p-2"><span>Painés de LED</span></li></a>
         <a href=""><li class="p-2"><span>Sup TV Articulado</span></li></a>
         <a href=""><li class="p-2"><span>Sup TV Tri-Articulado</span></li></a>
         <a href=""><li class="p-2"><span>Mesa Industrial</span></li></a>
