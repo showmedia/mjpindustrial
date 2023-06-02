@@ -377,7 +377,6 @@ nav .elemento-animado .ven li{
    /*  opacity: 0.9; */
     position: relative;
     overflow: hidden;
-    margin-bottom: -100px;
   }
 
   .search-top video {
@@ -826,25 +825,27 @@ nav .menu-mobile.active{
   transition: 0.3s ease-in-out;
 }
 
+#produtos{
+  width: 100%;
+  padding: 50px 10%;
+  min-height: 200px;
+}
+
+#produtos h1{
+  text-align: center;
+  font-size: 1.9rem;
+  margin-bottom: 50px;
+  color: #000;
+}
+
 #quemsomos{
   width: 100%;
   background-color: var(--primary);
   padding: 50px 10%;
   color: #fff;
+  margin-top: -100px;
 }
 
-#quemsomos h1{
-  text-align: center;
-  font-size: 1.9rem;
-  margin-bottom: 50px;
-}
-
-#quemsomos p{
-  column-count: 2;
-  column-gap: 50px;
-  font-size: 1.05rem;
-  text-align: justify;
-}
 
 #perguntas{
   width: 100%;
