@@ -11,16 +11,14 @@
 <ul class="elemento-animado" style="width: 40vw;">
 <div class="col-12 row p-2">
     <div class="text-start col-6">
-        <a href="/produtos/paineis%20de%20LED/1"><li class="p-2"><span>Painés de LED</span></li></a>
-        <a href="/produtos/suporte articulado/2"><li class="p-2"><span>Sup TV Articulado</span></li></a>
-        <a href="/produtos/suporte TV tri-articulado/3"><li class="p-2"><span>Sup TV Tri-Articulado</span></li></a>
-        <a href="/produtos/mesa industrial/4"><li class="p-2"><span>Mesa Industrial</span></li></a>
-        <a href="/produtos/mesa sala de reunião/5"><li class="p-2"><span>Mesa Sala de Reunião</span></li></a>
+        <a href="/produtos/Estrura para Painel LED Redondo/1"><li class="p-2"><span>Estrutura para Painel Led Redondo</span></li></a>
+        <a href="/produtos/Toten para Painel LED Slim Indoor em ACM/2"><li class="p-2"><span>Toten para Painel LED Slim Indoor em ACM</span></li></a>
+        <a href="/produtos/Suportes para MenuBoard Videowall/3"><li class="p-2"><span>Suportes para MenuBoard Videowall</span></li></a>
     </div>
     <div class="text-start col-6" style="border-left: 1px solid #ddd;">
-        <a href=""><li class="p-2"><span>Mesa Ind + 8 cadeiras</span></li></a>
-        <a href=""><li class="p-2"><span>Toten LED 0.80 x 1.20</span></li></a>
-        <a href=""><li class="p-2"><span>Toten LED 1.20 x 2.00</span></li></a>
+        <a href="/produtos/Estrutura para Painel de LED linha Postos de Combustíveis/4"><li class="p-2"><span>Estrutura para Painel de LED linha Postos de Combustíveis</span></li></a>
+        <a href="/produtos/Totens para Monitores e TVs/5"><li class="p-2"><span>Totens para Monitores e TVs</span></li></a>
+   
       
     <div>
 </div>
