@@ -80,7 +80,19 @@
                     Eleve o nível do seu posto de combustíveis e conquiste a atenção do seu público-alvo com a Estrutura para Painel de LED da Linha Postos de Combustíveis da MJP Industrial. Aproveite essa inovação na mídia e experimente os benefícios de uma comunicação visual impactante e eficiente.
                     </p>
                 <?php }else if($idproduto == 5){?>
-                    <p></p>
+                    <p>
+                    Os Totens para Monitores e TVs são soluções versáteis e práticas para exibir conteúdo audiovisual de forma impactante em diversos ambientes. Esses totens oferecem uma maneira elegante e moderna de transmitir informações, promover produtos ou fornecer entretenimento aos espectadores.
+                    <br><br>
+                    Com sua estrutura robusta e design atrativo, os Totens para Monitores e TVs se adaptam facilmente a diferentes espaços, como lojas, escritórios, centros comerciais e eventos. Sua versatilidade permite a integração de monitores e TVs de diferentes tamanhos, proporcionando uma experiência visual imersiva e envolvente.
+                    <br><br>
+                    Esses totens são ideais para exibir conteúdo dinâmico, como vídeos promocionais, apresentações interativas, catálogos digitais, guias informativos e transmissões ao vivo. Através da combinação de um monitor ou TV de alta resolução com a estrutura do totem, é possível criar uma plataforma eficaz para comunicar mensagens de forma clara e impactante.
+                    <br><br>
+                    A facilidade de instalação e operação dos Totens para Monitores e TVs torna-os uma opção prática para empresas que desejam melhorar sua comunicação visual. Com a possibilidade de atualização remota de conteúdo, é possível adaptar rapidamente as informações exibidas de acordo com as necessidades do momento.
+                    <br><br>
+                    Ao escolher os Totens para Monitores e TVs da MJP Industrial, você estará investindo em qualidade e confiabilidade. Nossos totens são fabricados com materiais de alta qualidade, garantindo durabilidade, estabilidade e um acabamento impecável. Além disso, oferecemos suporte técnico especializado para ajudá-lo em todas as etapas, desde a seleção até a instalação e operação dos totens.
+                    <br><br>
+                    Aprimore sua estratégia de comunicação visual e proporcione uma experiência única aos seus espectadores com os Totens para Monitores e TVs da MJP Industrial. Aproveite a flexibilidade, a qualidade de exibição e a praticidade desses totens para transmitir mensagens impactantes e alcançar seus objetivos de marketing de forma eficiente.
+                    </p>
                 <?php }?>
 
                     <br>
