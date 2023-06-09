@@ -26,7 +26,7 @@
                 </h1>
 
                 <?php 
-                    if($idproduto == 1){?>
+                    if($idproduto == 3){?>
                         <p>
                         O Menu Board Digital é uma solução visual inovadora amplamente adotada em estabelecimentos do ramo alimentício, como restaurantes, redes de fast-food e lanchonetes. Essa ferramenta tem como objetivo principal realçar as opções de cardápio por meio de imagens, vídeos e informações sobre os produtos, de maneira cativante, dinâmica, prática e de fácil compreensão para os clientes.
                         <br><br>
@@ -39,6 +39,9 @@
                         Invista no Suporte de Menu Board Digital ou VideoWall da MJP Industrial e impulsione seu negócio com uma solução moderna, impactante e de alto desempenho, que atrairá e envolverá seus clientes de forma única.
                         </p>
                     <?php }?>
+
+                    <br>
+                        <a href="https://wa.me/5511941202161">Solicitar Cotação</a>
             </section>
           
               

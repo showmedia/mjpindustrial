@@ -883,6 +883,23 @@ nav .menu-mobile.active{
   margin-right: 10px;
 }
 
+#produtos h1{
+  font-weight: bold;
+  color: #bd231b;
+}
+
+#produtos a{
+  color: #bd231b;
+}
+
+#produtos a:hover{
+  color: #5e0404;
+}
+
+#produtos p{
+  color: #252525;
+}
+
 #perguntas .active{
   color: var(--primary);
 }
