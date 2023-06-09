@@ -64,7 +64,21 @@
                         Invista no Suporte de Menu Board Digital ou VideoWall da MJP Industrial e impulsione seu negócio com uma solução moderna, impactante e de alto desempenho, que atrairá e envolverá seus clientes de forma única.
                         </p>
                 <?php }else if($idproduto == 4){?>
-                    <p></p>
+                    <p>
+                    A Estrutura para Painel de LED da Linha Postos de Combustíveis é uma inovação revolucionária que levará o nível dos postos a um patamar superior no que diz respeito à mídia e comunicação visual. 
+                    <br><br>
+                    Essa estrutura exclusiva foi projetada especificamente para atender às necessidades dos postos de combustíveis, oferecendo um diferencial notável em termos de exibição de conteúdo e atratividade visual. Com o uso desse painel de LED, os postos de combustíveis podem se destacar da concorrência e criar um impacto significativo em seus clientes.
+                    <br><br>
+                    A Estrutura para Painel de LED da Linha Postos de Combustíveis possui um design moderno e elegante, desenvolvido para se integrar perfeitamente à arquitetura do posto. Com sua instalação estratégica, proporciona uma plataforma eficaz para a divulgação de promoções, produtos, serviços e informações relevantes aos consumidores.
+                    <br><br>
+                    Além disso, a tecnologia de painel de LED permite uma exibição dinâmica e versátil, com imagens nítidas, vídeos envolventes e animações atrativas. Essa combinação de elementos visuais impactantes e a localização estratégica do painel no posto de combustíveis garantem que a mensagem seja transmitida de forma clara e eficaz.
+                    <br><br>
+                    Ao adotar a Estrutura para Painel de LED da Linha Postos de Combustíveis, os postos podem elevar seu nível de comunicação e oferecer uma experiência diferenciada aos clientes. Através desse meio de mídia inovador, é possível destacar as promoções em tempo real, exibir informações relevantes sobre os produtos, criar campanhas de marketing impactantes e fortalecer a imagem de marca do posto.
+                    <br><br>
+                    Com a MJP Industrial, você terá acesso a uma estrutura para painel de LED de alta qualidade, durabilidade e resistência. Nossos produtos são desenvolvidos com foco na satisfação do cliente, oferecendo soluções personalizadas e um acabamento impecável.
+                    <br><br>
+                    Eleve o nível do seu posto de combustíveis e conquiste a atenção do seu público-alvo com a Estrutura para Painel de LED da Linha Postos de Combustíveis da MJP Industrial. Aproveite essa inovação na mídia e experimente os benefícios de uma comunicação visual impactante e eficiente.
+                    </p>
                 <?php }else if($idproduto == 5){?>
                     <p></p>
                 <?php }?>
