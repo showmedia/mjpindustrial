@@ -38,7 +38,19 @@
                     Optar pelos suportes da MJP Industrial significa contar com um produto confiável e de alta performance, que proporcionará uma exibição impecável do seu Painel de LED Redondo. Invista na qualidade e no acabamento excepcional dos nossos suportes para garantir uma instalação segura e um visual impactante para o seu painel.
                     </p>
                 <?php }else if($idproduto == 2){?>
-                    <p></p>
+                    <p>
+                    O Totem para Painel LED Slim Indoor em ACM é uma solução sofisticada e inovadora que se destaca por sua estrutura de design ultrafino. Essa opção de totem oferece uma exibição elegante e compacta, ocupando pouco espaço físico, enquanto proporciona uma experiência visual impactante.
+                    <br><br>
+                    Com seu layout ultramoderno e minimalista, o Totem para Painel LED Slim Indoor em ACM é perfeito para ambientes que buscam uma aparência clean e sofisticada. Sua estrutura fina e leve permite a integração harmoniosa em diferentes espaços, como lojas, eventos, feiras e ambientes corporativos.
+                    <br><br>
+                    Uma das principais vantagens desse totem é o aproveitamento inteligente do espaço disponível. Sua construção em ACM (Alumínio Composto) confere resistência e durabilidade, sem comprometer a estética. Isso possibilita uma exibição de alta qualidade, ocupando o mínimo de área, ideal para locais onde o espaço é um recurso valioso.
+                    <br><br>
+                    Além disso, o layout inovador do Totem para Painel LED Slim Indoor em ACM permite uma fácil integração com a tecnologia de painel LED, oferecendo uma exibição de conteúdo dinâmico, com imagens nítidas e vídeos envolventes. Essa combinação de elementos visuais e estrutura moderna cria um impacto visual significativo, atraindo a atenção do público-alvo e transmitindo mensagens de forma eficaz.
+                    <br><br>
+                    Ao escolher o Totem para Painel LED Slim Indoor em ACM da MJP Industrial, você estará investindo em qualidade e inovação. Nossos produtos são fabricados com materiais de alta qualidade, garantindo resistência, durabilidade e um acabamento impecável. A MJP Industrial se destaca por oferecer soluções de exibição visual que combinam design sofisticado, tecnologia avançada e praticidade.
+                    <br><br>
+                    Impulsione a comunicação visual do seu negócio com o Totem para Painel LED Slim Indoor em ACM da MJP Industrial. Aproveite as vantagens de sua estrutura ultrafina, layout inovador e ocupação inteligente de espaço, para criar uma experiência única e impactante para o seu público.
+                    </p>
                 <?php }else if($idproduto == 3){?>
                         <p>
                         O Menu Board Digital é uma solução visual inovadora amplamente adotada em estabelecimentos do ramo alimentício, como restaurantes, redes de fast-food e lanchonetes. Essa ferramenta tem como objetivo principal realçar as opções de cardápio por meio de imagens, vídeos e informações sobre os produtos, de maneira cativante, dinâmica, prática e de fácil compreensão para os clientes.
